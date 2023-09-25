@@ -1,0 +1,89 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:background="@drawable/parchemin"
+              tools:context=".MyActivity" >
+
+    <LinearLayout
+            android:id="@+id/rightCol"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="40"
+            android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+
+        <Button
+            android:id="@+id/buttonSommaire"
+            android:layout_width="220dp"
+            android:soundEffectsEnabled="false"
+            android:layout_height="wrap_content"
+            android:onClick="goToPage20"
+            android:text="Sommaire"
+            android:background="@drawable/panneau"
+            android:layout_marginBottom="20dp"
+            android:textSize="20dp"
+            android:textStyle="bold|italic"
+            android:layout_marginTop="150dp" />
+
+        <Button
+            android:id="@+id/buttonAudio"
+            android:layout_width="220dp"
+            android:soundEffectsEnabled="false"
+            android:layout_height="wrap_content"
+            android:onClick="launchAudioAuto"
+            android:text="Lecture automatique"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/panneau"
+            android:textSize="20dp"
+            android:textStyle="bold|italic" />
+
+        <Button
+                android:id="@+id/button1"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+            android:soundEffectsEnabled="false"
+                android:onClick="goToPage1"
+                android:text="@string/page1"
+            android:background="@drawable/panneau"
+            android:layout_marginBottom="20dp"
+            android:textSize="20dp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="378dp"
+            android:layout_height="fill_parent"
+            android:text="@string/author"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_vertical|center_horizontal|bottom"
+            android:textStyle="bold|italic"
+            android:layout_marginTop="0dp"
+            android:textSize="20dp"
+            android:paddingBottom="30dp"
+            android:textColor="#353535" />
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:id="@+id/leftCol"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="60"
+            android:orientation="vertical"
+        android:clickable="true"
+        android:padding="20dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="5dp"
+            android:scaleType="fitXY"
+            android:layout_above="@+id/buttonNext"
+            android:background="@drawable/couverture" />
+    </LinearLayout>
+
+</LinearLayout>

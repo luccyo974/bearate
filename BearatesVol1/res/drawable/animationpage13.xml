@@ -1,0 +1,14 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/page1300" android:duration="200" />
+    <item android:drawable="@drawable/page1301" android:duration="200" />
+    <item android:drawable="@drawable/page1302" android:duration="200" />
+    <item android:drawable="@drawable/page1303" android:duration="200" />
+    <item android:drawable="@drawable/page1304" android:duration="200" />
+    <item android:drawable="@drawable/page1305" android:duration="200" />
+    <item android:drawable="@drawable/page1306" android:duration="200" />
+    <item android:drawable="@drawable/page1307" android:duration="200" />
+    <item android:drawable="@drawable/page1308" android:duration="200" />
+    <item android:drawable="@drawable/page1309" android:duration="200" />
+    <item android:drawable="@drawable/page1310" android:duration="500" />
+</animation-list>

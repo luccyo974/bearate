@@ -1,0 +1,12 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/page900" android:duration="200" />
+    <item android:drawable="@drawable/page901" android:duration="200" />
+    <item android:drawable="@drawable/page902" android:duration="200" />
+    <item android:drawable="@drawable/page903" android:duration="200" />
+    <item android:drawable="@drawable/page904" android:duration="200" />
+    <item android:drawable="@drawable/page901" android:duration="200" />
+    <item android:drawable="@drawable/page902" android:duration="200" />
+    <item android:drawable="@drawable/page903" android:duration="200" />
+    <item android:drawable="@drawable/page904" android:duration="500" />
+</animation-list>

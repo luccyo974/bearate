@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="false"
+    android:background="@drawable/parchemin"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="50">
+      
+        <ImageButton
+            android:id="@+id/buttonPrev"
+            android:layout_width="100dp"
+            android:soundEffectsEnabled="false"
+            android:layout_height="100dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:onClick="goToPrev"
+            android:padding="0dp"
+            android:background="@drawable/buttonprev" />
+
+        <ImageView
+            android:id="@+id/page13Img1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentTop="false"
+            android:layout_margin="5dp"
+            android:scaleType="fitXY"
+            android:layout_above="@+id/buttonPrev"
+            android:layout_alignParentEnd="false" />
+
+        <ImageButton
+            android:id="@+id/buttonNext"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:soundEffectsEnabled="false"
+            android:onClick="goToNext"
+            android:padding="0dp"
+            android:background="@drawable/buttonnext"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true" />
+
+    </RelativeLayout>
+
+</LinearLayout>

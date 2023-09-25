@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="list_pages">
+		<item>page 1</item>
+		<item>page 2</item>
+		<item>page 3</item>
+		<item>page 4</item>
+		<item>page 5</item>
+		<item>page 6</item>
+		<item>page 7</item>
+		<item>page 8</item>
+		<item>page 9</item>
+		<item>page 10</item>
+		<item>page 11</item>
+		<item>page 12</item>
+		<item>page 13</item>
+		<item>page 14</item>
+		<item>page 15</item>
+		<item>page 16</item>
+		<item>page 17</item>
+		<item>page 18</item>
+		<item>page 19</item>
+	</string-array>
+</resources>

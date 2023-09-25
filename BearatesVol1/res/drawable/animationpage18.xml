@@ -1,0 +1,8 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/page1800" android:duration="200" />
+    <item android:drawable="@drawable/page1801" android:duration="200" />
+    <item android:drawable="@drawable/page1802" android:duration="200" />
+    <item android:drawable="@drawable/page1803" android:duration="200" />
+    <item android:drawable="@drawable/page1804" android:duration="500" />
+</animation-list>

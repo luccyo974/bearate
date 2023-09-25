@@ -1,0 +1,116 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="false"
+    android:background="@drawable/parchemin"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="40">
+
+        <ImageButton
+            android:id="@+id/buttonPrev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="goToPrev"
+            android:padding="0dp"
+            android:soundEffectsEnabled="false"
+            android:background="@drawable/buttonprev"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true" />
+
+        <TextView
+            android:id="@+id/pageTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:paddingTop="20dp"
+            android:text="@string/summaryTitle"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#000000"
+            android:textSize="@dimen/xlarge_title" />
+
+        <TextView
+            android:id="@+id/page1Par1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/pageTitle"
+            android:layout_marginTop="30dp"
+            android:minWidth="250dp"
+            android:paddingLeft="20dp"
+            android:textColor="#000000"
+            android:textSize="@dimen/xlarge_text" />
+
+        <TextView
+            android:id="@+id/page1Par2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:textColor="#000000"
+            android:textSize="@dimen/xlarge_text"
+            android:layout_below="@+id/page1Par1"
+            android:layout_alignParentLeft="true"
+            android:paddingTop="20dp" />
+
+        <TextView
+            android:id="@+id/page1Par3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:textColor="#000000"
+            android:textSize="@dimen/xlarge_text"
+            android:layout_below="@+id/page1Par2"
+            android:layout_alignParentLeft="true"
+            android:paddingTop="20dp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="fill"
+        android:layout_weight="60"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp">
+
+        <ImageButton
+            android:id="@+id/buttonNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:soundEffectsEnabled="false"
+            android:onClick="goToNext"
+            android:padding="0dp"
+            android:background="@drawable/buttonnext" />
+
+        <ImageView
+            android:id="@+id/page1Img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="5dp"
+            android:scaleType="fitXY"
+            android:layout_above="@+id/buttonNext" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="70dp"
+            android:text="Audio"
+            android:soundEffectsEnabled="false"
+            android:id="@+id/button"
+            android:background="@drawable/panneau"
+            android:layout_alignBottom="@+id/buttonNext"
+            android:onClick="launchAudio"
+            android:layout_alignParentLeft="true"
+            android:textSize="25dp"
+            android:textStyle="bold|italic" />
+
+    </RelativeLayout>
+
+</LinearLayout>

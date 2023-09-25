@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Les Bearates</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="summaryTitle">Les Bearates</string>
+    <string name="retourAccueil">Accueil</string>
+    <string name="page1">Page 1</string>
+    <string name="page2">Page 2</string>
+    <string name="page3">Page 3</string>
+    <string name="page4">Page 4</string>
+    <string name="page5">Page 5</string>
+    <string name="page6">Page 6</string>
+    <string name="page7">Page 7</string>
+    <string name="page8">Page 8</string>
+    <string name="page9">Page 9</string>
+    <string name="page10">Page 10</string>
+    <string name="page11">Page 11</string>
+    <string name="page12">Page 12</string>
+    <string name="page13">Page 13</string>
+    <string name="page14">Page 14</string>
+    <string name="page15">Page 15</string>
+    <string name="page16">Page 16</string>
+    <string name="page17">Page 17</string>
+    <string name="page18">Page 18</string>
+    <string name="page19">Page 19</string>
+    <string name="author">UN LIVRE DE NICOLAS GUENIOT</string>
+
+</resources>

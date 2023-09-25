@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="false"
+    android:background="@drawable/parchemin"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="50" >
+
+        <ImageButton
+            android:id="@+id/buttonPrev"
+            style="@style/AppBaseTheme"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:adjustViewBounds="false"
+            android:baselineAlignBottom="false"
+            android:soundEffectsEnabled="false"
+            android:cropToPadding="false"
+            android:onClick="goToPrev"
+            android:padding="0dp"
+            android:background="@drawable/buttonprev"
+            android:layout_toLeftOf="@+id/pageTitle"
+            android:layout_alignParentEnd="false"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/page13Img1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignWithParentIfMissing="false"
+            android:layout_centerInParent="false"
+            android:layout_margin="5dp"
+            android:scaleType="fitXY"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_above="@+id/buttonPrev" />
+
+        <ImageButton
+            android:id="@+id/buttonNext"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:adjustViewBounds="true"
+            android:onClick="goToNext"
+            android:padding="0dp"
+            android:background="@drawable/buttonnext"
+            android:soundEffectsEnabled="false"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentStart="false"
+            android:scaleType="fitXY"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true" />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1text">Un après-midi à l\'ombre d\'un cocotier, Grand\'Ma Dodo, un livre à la
+        main, commence à raconter une histoire de pirates qui date de bien avant sa naissance.\n\r\n\r
+        Les enfants, bien installés, écoutent Grand\'Ma Dodo avec la plus
+        grande attention.
+    </string>
+    <string name="page1par3"></string>
+
+    <string name="page2text">Ce jour là, le grand pirate Dodo La Buse comprend que c\'est la fin de
+        son voyage, il décide donc de lancer sa carte au trésor dans la foule, en disant :\n\r\n\r
+    \" Que celui qui arrive à déchiffrer ma carte, trouve mon gigantesque
+        trésor ! \"
+    </string>
+
+    <string name="page3text">La nouvelle se répend très rapidement aux quatre coins du monde,
+        jusqu\'à chez nos amis les Bearates.\n\r\n\r
+    L\'appel du trésor les pousse à sortir une carte pour
+        voir où va les mener leur prochaine aventure.\n\r\n\r
+        \"Direction l\'île Bourbon.\" s\'exclame le Capitaine des Bearates.</string>
+
+    <string name="page4text">Les cales chargées et les voiles tendues, le bateau des Bearates largue
+        les amarres et voit déja s\'eloigner les decors enneigés de leur belle contrée \"la Bearatie\".\n\r\n\r
+    L\'équipage se demande comment ils pourront dépenser tout cet or lorsqu\'ils l\'auront trouvé.
+    </string>
+
+    <string name="page5text">La route, qu\'ils empruntent, n\'est pas la plus longue, mais bien la plus dangereuse.\n\r\n\r
+        Croisant des monstres marins, des vagues gigantesques, et des cyclones violents.\n\r\n\r
+        Après plusieurs semaines de voyage, ils découvrent enfin les plage de sable chaud.</string>
+
+    <string name="page6text">La grand\'voile roulée, les Bearates descendent du grand mât leur drapeau
+        pour ne pas se faire remarquer.\n\r\n\r
+        Se laissant porter par les flots, ils aperçoivent la côte se rapprocher.\n\r\n\r
+        \"Ca y est, l\'île Bourbon est en vue.\" cria tout exité le capitaine.</string>
+
+     <string name="page7text">Une fois pied à terre, on leur demande trés gentillement de payer les frais de port.\n\r\n\r
+         \"Cela fera 3 sous, Monsieur, pour avoir le droit d\'acoster sur notre île\" dit Dodouane\n\r\n\r
+         \"J\'espère que le trésor de ce vieux pirate en vaut le coup ! Nous avons déjà perdu 3 sous.\" se dit le capitaine</string>
+
+    <string name="page8text">Sous ce soleil brûlant, les pauvres Bearates transpirent à grosses gouttes,
+    et espèrent trouver rapidement un endroit ombragé, où ils pourront se reposer.\n\r\n\r
+        \"On arrive bientôt ?\" demande Ti\'bearate.\n\r\n\r
+        \"Je ne sais pas, mes yeux sont tout embués, fais comme nous tous, et continues de marcher.\" lui répond le Capitaine.</string>
+
+    <string name="page9text">Ayant trouvé une taverne sur le bord de la plage, l\'équipage en profite pour se désaltérer au bar,
+        pendant que leur Capitaine est en grande discussion avec une dodo du coin.\n\r\n\r
+        \"C\'est la carte de La Buse que vous cherchez ?\" demande Dodoune qui connaissait tous les potins des environs.\n\r\n\r
+        \"Allez voir dans son champ Dodo le chanceux, il pourra sûrement vous aider.\"</string>
+
+    <string name="page10text">Arrivés chez Dodo le chanceux, il leur explique que c\'est bien lui qui a récupéré par chance la carte dans la foule.
+        C\'est d\'ailleurs de là qu\'il tient son nom.\n\r\n\r
+        \"Dodo plein-de-sous me l\'a échangé contre cette terre et cette maison, qui pour moi sont le plus grand des trésors.\" leurs dit-il.\n\r\n\r
+        Avant de partir, le Capitaine demande à Dodo le chanceux : \"Pourrais-tu nous dire où se trouve la maison de Dodo plein-de-sous?\"</string>
+
+    <string name="page11text">Après avoir expliqué à nos Bearates où se trouve la maison de Dodo plein-de-sous, le Capitaine explique le plan qu\'il vient de mettre au point : \n\r\n\r
+        \"A la tombée, on escaladera la grande haie, on creusera un trou dans le jardin, qui nous amènera à l\'intérieur sans être vus,
+        et après être montés à l\'étage, il ne restera plus qu\'à ouvrir le coffre, et à s\'emparer de la carte.\"\n\r\n\r
+        \"C\'est un plan génial Capitaine.\" s\'écria en coeur l\'équipage.</string>
+
+    <string name="page12text">La nuit est tombée depuis plusieurs heures, et les Bearates sont en train d\'escalader la haie pour se faufiler discrètement dans le jardin.\n\r\n\r
+        Prenant toutes les précautions pour ne pas faire de bruit, 3 d\'entre eux sont déjà de l\'autre côté attendant leurs compagnons.</string>
+
+
+    <string name="page14text">C\'est alors, que Dodong, un employé de Dodo plein-de-sous, réveillé par une petite faim, passe
+        près de la fenêtre par hasard.\n\n
+        La lumière de sa lanterne alerte les Bearates, qui ayant tellement peur, traversent la haie d\'un coup,
+        en laissant dernière eux Ti\'bearate qui n\'ose plus bouger.\n\n
+        Dodong, surpris par ce spectacle, va voir Ti\'bearate dans le jardin pour lui demander quelques petites explications.</string>
+
+    <string name="page15text">\"Qui es-tu et que fais-tu dans cette propriété ?\" demande Dodong.\n\r\n\r
+        Ti\'bearate, qui ne ment jamais, raconte tout à Dodong.\n\r\n\r
+        \"Je m\'appelle Ti\'bearate, avec mon Capitaine et l\'équipage, nous sommes venus sur cette île pour trouver le trésor de Dodo La Buse, mais pour cela il nous faut sa carte, donc heu..., voilà pourquoi nous étions là.\"</string>
+
+    <string name="page16text">Dodong lui dit : \"Je rêve d\'aventure moi aussi, je veux bien vous aider, mais en échange, je veux faire partie de votre équipage.\"\n\r\n\r
+        Ti\'bearate lui répond : \"C\'est promis, j\'en parlerai au Capitaine.\"\n\r\n\r
+        Cet accord passé, Dodong l\'emmène en haut d\'une falaise pour lui montrer son secret qui intéressera sûrement les Bearates.</string>
+
+    <string name="page17text">Après avoir creusé au pied d\'un cocotier en haut de la falaise, ils trouvent un coffre qui contient une carte.
+        Dodong la montre à Ti\'bearate, et lui dit :\n\r\n\r
+        \"C\'est une copie de la vraie carte de La Buse, que j\'ai fait moi-même, et que j\'ai cachée sans que personne ne s\'en rende compte, tu penses que cela vous aidera ?\"\n\r\n\r
+        \"Bien sûr, tu ne pouvais être d\'une meilleure aide pour notre chasse au trésor.\" répond Ti\'bearate.</string>
+
+    <string name="page18text">Au petit matin, nos compères retournent là où le bateau des Bearates a accosté la veille.\n\r\n\r
+        Les Bearates qui ont pris la fuite pendant la nuit, se faisaient du souci sur le sort de Ti\'bearate.\n\r\n\r
+        Quelle joie de le voir arrivé sain et sauf, et quelle surprise de le voir accompagné de Dodong.</string>
+
+    <string name="page19text">Heureux d\'avoir la carte de Dodo La Buse en leur possession et un nouveau compagnon dans l\'équipage,
+        les Bearates fêtent leurs exploits en imaginant les tonnes d\'or qu\'ils amasseront.\n\r\n\r
+        \"Prêts pour partir à la chasse au trésor?\" cria le Capitaine. \"Oui !!!\" répondent en coeur les 5 membres d\'équipage. \"Alors c\'est parti !\"\n\r\n\r
+        \"Ca, ce sera une autre histoire\" dit Grand\'Ma Dodo en fermant le livre.</string>
+
+</resources>
